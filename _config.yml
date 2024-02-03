@@ -26,7 +26,7 @@ facebook: "https://www.facebook.com/DBBiopharmaceuticals"
   username: "DBBiopharmaceuticals"
   app_id: ""
   publisher: ""
-og_image: "profile.png" # Use a professional headshot or related image
+og_image: "https://github.com/Cartesian1671/rbnsnlb.github.io/blob/master/images/20211120_173223.jpg" # Use a professional headshot or related image
 
 # Analytics
 analytics:
